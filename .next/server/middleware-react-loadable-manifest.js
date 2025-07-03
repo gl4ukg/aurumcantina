@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST='{"app/blocks/gallery/variants/masonry/MasonryGallery.tsx -> masonry-layout":{"id":1710,"files":["static/chunks/710.7b06086ec4e9600f.js"]}}';
+self.__REACT_LOADABLE_MANIFEST="{\"app/blocks/gallery/variants/masonry/MasonryGallery.tsx -> masonry-layout\":{\"id\":\"app/blocks/gallery/variants/masonry/MasonryGallery.tsx -> masonry-layout\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_pnpm_masonry-layout_4_2_2_node_modules_masonry-layout_masonry_js.js\"]}}"

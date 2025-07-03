@@ -1,8 +1,8 @@
 {
   "app/blocks/gallery/variants/masonry/MasonryGallery.tsx -> masonry-layout": {
-    "id": 1710,
+    "id": "app/blocks/gallery/variants/masonry/MasonryGallery.tsx -> masonry-layout",
     "files": [
-      "static/chunks/710.7b06086ec4e9600f.js"
+      "static/chunks/_app-pages-browser_node_modules_pnpm_masonry-layout_4_2_2_node_modules_masonry-layout_masonry_js.js"
     ]
   }
 }
