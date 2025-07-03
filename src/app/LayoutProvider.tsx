@@ -1,6 +1,6 @@
-'use client';
+"use client";
 
-import { usePathname } from 'next/navigation';
+import { usePathname } from "next/navigation";
 import { InfoGeneralData } from "./hooks/data-general";
 import Header from "./components/common/header/Header";
 import Topbar from "./components/common/topbar/Topbar";
@@ -12,14 +12,14 @@ export default function LayoutProvider({
   children: React.ReactNode;
 }) {
   const pathname = usePathname();
-  const hideOnRoutes = ['/coming-soon'];
+  const hideOnRoutes = ["/coming-soon"];
   const shouldHideHeaderFooter = hideOnRoutes.includes(pathname);
 
   return (
     <>
       {!shouldHideHeaderFooter && (
         <>
-          <Topbar 
+          <Topbar
             address={InfoGeneralData.address}
             city={InfoGeneralData.city}
             zip={InfoGeneralData.zip}
@@ -28,11 +28,10 @@ export default function LayoutProvider({
             phone={InfoGeneralData.phone}
             email={InfoGeneralData.emailReservations}
           />
-          <Header />
         </>
       )}
       <main>{children}</main>
       {!shouldHideHeaderFooter && <Footer />}
     </>
   );
-} 
+}

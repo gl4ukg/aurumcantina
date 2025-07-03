@@ -12,21 +12,21 @@ import { CtaTwo } from "@/app/blocks/cta";
 import { ctaTwoData } from "@/app/hooks/data-cta";
 
 const MenuPage = () => {
-	return (
-		<main>
-			<HeroInner
-				title={HeroInnerMenuData.title}
-				image={HeroInnerMenuData.image}
-				altText={HeroInnerMenuData.altText}
-				breadcrumbs={HeroInnerMenuData.breadcrumbs}
-			/>
-			<SpecialOffersTwoBlock {...specialOffersData} />
-			<MenuImageBlock {...categoryDishesData} />
-			<CtaTwo {...ctaTwoData} />
-			<BadgesList {...badgesListData} />
-			<Gallery {...galleryData} />
-		</main>
-	);
+  return (
+    <main>
+      <HeroInner
+        title={HeroInnerMenuData.title}
+        image={HeroInnerMenuData.image}
+        altText={HeroInnerMenuData.altText}
+        breadcrumbs={HeroInnerMenuData.breadcrumbs}
+      />
+      <SpecialOffersTwoBlock {...specialOffersData} />
+      <MenuImageBlock {...categoryDishesData} />
+      <CtaTwo {...ctaTwoData} />
+      <BadgesList {...badgesListData} />
+      <Gallery {...galleryData} />
+    </main>
+  );
 };
 
 export default MenuPage;
