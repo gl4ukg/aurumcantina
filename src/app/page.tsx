@@ -1,3 +1,5 @@
-import PageTemplate from "./(routes)/menu/page";
+import { redirect } from 'next/navigation';
 
-export default PageTemplate;
+export default function Home() {
+  redirect('/menu');
+}

@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{}"
+self.__REACT_LOADABLE_MANIFEST='{"app/blocks/gallery/variants/masonry/MasonryGallery.tsx -> masonry-layout":{"id":1710,"files":["static/chunks/710.7b06086ec4e9600f.js"]}}';
