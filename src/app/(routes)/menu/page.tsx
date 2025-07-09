@@ -20,11 +20,11 @@ const MenuPage = () => {
         altText={HeroInnerMenuData.altText}
         breadcrumbs={HeroInnerMenuData.breadcrumbs}
       />
-      <SpecialOffersTwoBlock {...specialOffersData} />
+      {/* <SpecialOffersTwoBlock {...specialOffersData} /> */}
       <MenuImageBlock {...categoryDishesData} />
       <CtaTwo {...ctaTwoData} />
-      <BadgesList {...badgesListData} />
-      <Gallery {...galleryData} />
+      {/* <BadgesList {...badgesListData} /> */}
+      {/* <Gallery {...galleryData} /> */}
     </main>
   );
 };

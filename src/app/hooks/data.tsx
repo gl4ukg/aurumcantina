@@ -18,7 +18,7 @@ export const HeroInnerMenuData = {
 			link: "/menu",
 		}
 	],
-	image: "/bg/bg-menu.jpg",
+	image: "/restaurant.jpg",
 	altText: "Menu",
 };
 export const HeroInnerMenuFullData = {

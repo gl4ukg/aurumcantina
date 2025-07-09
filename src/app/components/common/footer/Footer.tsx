@@ -49,17 +49,17 @@ const Footer: React.FC = () => {
             </div>
             {/* / Address  */}
           </div>
-          <div className="footer__social">
-            {/*  social-icons  */}
-            <SocialIcons socials={socialIconsData} />
-            {/* / Social-icons  */}
-          </div>
         </div>
       </div>
       <div className="footer__button">
         {/*  Copyright  */}
         <div className="footer__copyright">
           <p>{InfoGeneralData.copyright}</p>
+        </div>
+        <div className="footer__social">
+          {/*  social-icons  */}
+          <SocialIcons socials={socialIconsData} />
+          {/* / Social-icons  */}
         </div>
         {/* / Copiright  */}
         {/*  Links legal  */}

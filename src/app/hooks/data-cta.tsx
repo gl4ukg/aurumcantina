@@ -9,9 +9,9 @@ export const ctaData = {
 export const ctaTwoData = {
 	title: "Coffee Products",
 	description:
-		"The public dining room that came ultimately to be known as the restaurant originated in France.",
-	link: "/page-menu.html",
-	linkText: "View Our Menu",
+		"Kafja e mirë ka gjithmonë një histori – në kantinën tonë, ajo nis çdo mëngjes me aromë të freskët dhe shije autentike",
+	link: "#mainMenu",
+	linkText: "Menu",
 };
 
 export const ctaIntroData = {

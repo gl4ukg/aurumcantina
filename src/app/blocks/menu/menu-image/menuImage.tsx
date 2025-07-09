@@ -24,7 +24,7 @@ const MenuImageBlock = ({
 	}
 
 	return (
-		<div className="menu">
+		<div id="mainMenu" className="menu">
 			<div className={`${className || ""}`}>
 				{/* Info title */}
 				<BlockTitle

@@ -78,6 +78,6 @@
         }
     }
     &__social{
-        @apply flex flex-wrap flex-row items-start justify-center w-full mt-6;
+        @apply flex flex-wrap flex-row items-center justify-end w-6/12 mt-6;
     }
 }

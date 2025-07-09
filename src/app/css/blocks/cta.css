@@ -40,13 +40,13 @@
 /* ------ style 2 ------ */
 .cta-2 {
 	@apply bg-center bg-cover relative bg-no-repeat overflow-hidden;
-	background-image: url("/bg/bg-cta-2.jpg");
+	background-image: url("/lavaza.avif");
 	@screen md {
 		background-attachment: fixed;
 		background-position: center 100%;
 	}
 	&__overlayer {
-		@apply absolute top-0 bottom-0 left-0 right-0 z-10 w-full h-full bg-surface-dark opacity-75;
+		@apply absolute top-0 bottom-0 left-0 right-0 z-10 w-full h-full bg-surface-dark opacity-5;
 	}
 	&__container {
 		@apply container mx-auto py-10 md:py-20 xl:py-28 flex flex-col flex-wrap justify-center items-center relative z-20;
@@ -60,7 +60,7 @@
 	}
 	&.cta-2__right {
 		.cta-2__container {
-			@apply sm:!items-end;
+			@apply sm:!items-start;
 		}
 	}
 	&.cta-2__left {

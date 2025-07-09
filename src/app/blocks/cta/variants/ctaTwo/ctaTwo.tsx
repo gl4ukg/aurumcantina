@@ -20,11 +20,6 @@ const CtaTwo = ({title, description, link, linkText}: CtaProps) => {
 					<div className="cta-2__body">
 						<p>{description}</p>
 					</div>
-					<div className="cta-2__footer">
-						<Link href={link || '#'} className="btn btn__default">
-							{linkText}
-						</Link>
-					</div>
 				</div>
 			</div>
 		</div>
