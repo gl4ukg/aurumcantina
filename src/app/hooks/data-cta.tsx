@@ -15,9 +15,9 @@ export const ctaTwoData = {
 };
 
 export const ctaIntroData = {
-	title: "Beef - Restaurant",
+	title: "Aurum Cantina",
 	description:
-		"Made using only the finest coding & design practices there are, Beef - Elegant Restaurant is sure to make a perfect main ingredient for creating an irresistible your restaurant website.",
+		"Aurum Cantina është një lounge bar modern që ofron një kombinim unik të kuzhinës amerikane, italiane dhe meksikane. Me një atmosferë të ngrohtë dhe relaksuese, ne ju presim me ushqim të shijshëm, kafe cilësore dhe një përzgjedhje të gjerë pijesh alkoolike. Vendi ideal për të shijuar momente me miqtë apo për të kaluar një mbrëmje të këndshme.",
 	link: "/",
 	linkText: "Purchase Now",
 };

@@ -33,8 +33,7 @@ export const aboutData = {
 		"Warm hospitality is at the heart of everything we do. From the first greeting to the last bite, we strive to make every guest feel welcome, comfortable, and truly at home.",
 	],
 	descriptionParagraphsTwo: [
-		"Beef Restourant Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words.",
-		"Warm hospitality is at the heart of everything we do. From the first greeting to the last bite, we strive to make every guest feel welcome, comfortable, and truly at home.",
+		"Aurum Cantina është një lounge bar modern që ofron një kombinim unik të kuzhinës amerikane, italiane dhe meksikane. Me një atmosferë të ngrohtë dhe relaksuese, ne ju presim me ushqim të shijshëm, kafe cilësore dhe një përzgjedhje të gjerë pijesh alkoolike. Vendi ideal për të shijuar momente me miqtë apo për të kaluar një mbrëmje të këndshme.",
 	],
 	descriptionParagraphsThree: [
 		"We believe in the art of culinary innovation. Our chefs experiment daily, crafting bold flavors and unforgettable experiences that surprise and delight every guest who walks through our doors.",
@@ -62,8 +61,7 @@ export const aboutTwoData = {
 		"Warm hospitality is at the heart of everything we do. From the first greeting to the last bite, we strive to make every guest feel welcome, comfortable, and truly at home.",
 	],
 	descriptionParagraphsTwo: [
-		"Beef Restourant Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words.",
-		"Warm hospitality is at the heart of everything we do. From the first greeting to the last bite, we strive to make every guest feel welcome, comfortable, and truly at home.",
+		"Aurum Cantina është një lounge bar modern që ofron një kombinim unik të kuzhinës amerikane, italiane dhe meksikane. Me një atmosferë të ngrohtë dhe relaksuese, ne ju presim me ushqim të shijshëm, kafe cilësore dhe një përzgjedhje të gjerë pijesh alkoolike. Vendi ideal për të shijuar momente me miqtë apo për të kaluar një mbrëmje të këndshme.",
 	],
 	descriptionParagraphsThree: [
 		"We believe in the art of culinary innovation. Our chefs experiment daily, crafting bold flavors and unforgettable experiences that surprise and delight every guest who walks through our doors.",
