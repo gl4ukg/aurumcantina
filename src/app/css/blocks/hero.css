@@ -213,7 +213,7 @@
 		animation: fadeInUp 0.8s ease-out;
 	}
 	&__title {
-		@apply uppercase mb-2 text-text-base font-barlow-condensed !text-title-3 md:!text-title-2 lg:!text-display-2 font-normal text-center;
+		@apply uppercase mb-2 text-text-base font-barlow-condensed !text-title-3 font-normal text-center;
 		text-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 		letter-spacing: 1px;
 	}
