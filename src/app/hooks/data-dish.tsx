@@ -191,13 +191,13 @@ export const categoryDishesData = {
         },
         {
           id: 7,
-          title: "Shrimp Taco",
+          title: "Mini Burritos",
           price: "SE SHPEJTI..",
           description: "",
         },
         {
           id: 8,
-          title: "Mini Burritos",
+          title: "Shrimp Tacos",
           price: "SE SHPEJTI..",
           description: "",
         },
