@@ -55,6 +55,16 @@ const Footer: React.FC = () => {
         {/*  Copyright  */}
         <div className="footer__copyright">
           <p>{InfoGeneralData.copyright}</p>
+          <p>
+            Website by{" "}
+            <a
+              href="https://codespherellc.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              CodeSphereLLC
+            </a>
+          </p>
         </div>
         <div className="footer__social">
           {/*  social-icons  */}
