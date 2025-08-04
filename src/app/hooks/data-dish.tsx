@@ -118,7 +118,7 @@ export const categoryDishesData = {
         },
         {
           id: 3,
-          title: "Omelette Aurum",
+          title: "Omelette",
           price: "2.80€",
           description:
             "Omëletë me përbërës që i zgjidhni vetë: perime të freskëta, djathë apo proshutë.",
@@ -231,13 +231,13 @@ export const categoryDishesData = {
         },
         {
           id: 3,
-          title: "Chicken Burger Deluxe",
+          title: "Chicken Burger",
           price: "3.00€",
           description: "Fileto pule krokante, salcë burgeri, qepë & tranguj",
         },
         {
           id: 4,
-          title: "Sanduiç me Pule (Panino di Pollo)",
+          title: "Sanduiç me Pule",
           price: "3.00€",
           description: "Chicken sandwich me salcë, kaçkavall, tranguj",
         },
@@ -303,13 +303,13 @@ export const categoryDishesData = {
       dishesList: [
         {
           id: 1,
-          title: "Tagliatelle Bolognese",
+          title: "Pasta Bolognese",
           price: "4.80€",
           description: "Recetë origjinale me mish viçi",
         },
         {
           id: 2,
-          title: "Chicken Fettuccine Alfredo",
+          title: "Pasta me pule dhe pana",
           price: "4.80€",
           description:
             "Me copeza te vogla te pules, pana, gjalpë dhe parmixhan",
@@ -337,7 +337,7 @@ export const categoryDishesData = {
       dishesList: [
         {
           id: 1,
-          title: "Risotto alle Verdure",
+          title: "Risotto alle Verdure (me perime)",
           price: "4.00€",
           description: "Me perime të stinës dhe shafran, pesto dhe soya sos",
         },
