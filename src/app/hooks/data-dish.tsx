@@ -105,7 +105,7 @@ export const categoryDishesData = {
       dishesList: [
         {
           id: 1,
-          title: "Mexican Soup (Jo djegës)",
+          title: "Mexican Soup",
           price: "2.50€",
           description: "Pulë e butë, misër, domate, avokado dhe limon.",
         },
