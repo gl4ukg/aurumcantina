@@ -422,21 +422,21 @@ export const categoryDishesData = {
           title: "Meza e Zjarrtë “Aurum Platter”",
           price: "15.00€",
           description:
-            "Përmban: 3 Taco të vegjël me (pule, viç, vegjetarian), Mish viqi, Kackavall i freskët, i prerë në copa, Djathë i bardhë tradicional, Chicken Fingers krokante, Ullinj të zinj dhe jeshilë, të marinuar me erëza.",
+            "Përmban: Mish viqi dhe pule, Kackavall i freskët, i prerë në copa, Djathë i bardhë tradicional, Chicken Fingers krokante, Ullinj të zinj dhe jeshilë, të marinuar me erëza.",
         },
         {
           id: 2,
           title: "Meza e Zjarrtë “Aurum Platter” (E Vogël)",
           price: "8.00€",
           description:
-            "Përmban: 2 Taco të vegjël me mish pule të marinuar, kaçkavall të freskët të prerë në copa, djathë të bardhë tradicional",
+            "Përmban: Mish pule të marinuar, kaçkavall të freskët të prerë në copa, djathë të bardhë tradicional",
         },
         {
           id: 3,
           title: "Meza e Akullt “Aurum Platter”",
           price: "8.00€",
           description:
-            "Pjatë e përzgjedhur me kaçkavall të stazhonuar, proshutë dhe suxhuk boshnjak artizanal, bruschetta të vogla në stil tako, ullinj mesdhetarë dhe perime të freskëta të marinuara me vaj ulliri dhe aromatikë natyralë.",
+            "Pjatë e përzgjedhur me kaçkavall të stazhonuar, proshutë dhe suxhuk boshnjak artizanal, ullinj mesdhetarë dhe perime të freskëta të marinuara me vaj ulliri dhe aromatikë natyralë.",
         },
       ],
     },
