@@ -321,6 +321,13 @@ export const categoryDishesData = {
           description:
             "Spaghetti al dente me karkaleca të freskët, hudhër, verë të bardhë dhe majdanoz, domatini, vaj hudre, parmesan",
         },
+        {
+          id: 4,
+          title: "Spaghetti me Fruta Deti",
+          price: "6.80€",
+          description:
+            "Spaghetti al dente me karkaleca, midhje dhe fruta të tjera deti, hudhër, verë të bardhë, vaj ulliri dhe majdanoz të freskët.",
+        },
       ],
     },
     {
@@ -349,6 +356,13 @@ export const categoryDishesData = {
         },
         {
           id: 3,
+          title: "Risotto me Karkaleca",
+          price: "10.00€",
+          description:
+            "Oriz arborio i kremozuar me verë të bardhë, karkaleca të freskët, hudhër, lëng peshku, vaj ulliri dhe majdanoz të freskët.",
+        },
+        {
+          id: 4,
           title: "Risotto me Fruta Deti (Risotto ai Frutti di Mare)",
           price: "8.00€",
           description:
@@ -396,13 +410,6 @@ export const categoryDishesData = {
           description:
             "Karkaleca krokantë në tempurë të lehtë japoneze, të shërbyer në gota ‘shot’ individuale, të shoqëruar me një përzgjedhje finesash salsash shtëpie",
         },
-        {
-          id: 5,
-          title: "Crudo di Mare",
-          price: "30.00€",
-          description:
-            "Karkalec dhe levrek i freskët, të servirur në stilin crudo për të ruajtur shijen natyrale dhe teksturën delikate. Shoqërohen me fruta të freskëta sezonale që krijojnë një kontrast të rafinuar mes ëmbëlsisë dhe freskisë së detit.",
-        },
       ],
     },
     {
@@ -419,21 +426,21 @@ export const categoryDishesData = {
       dishesList: [
         {
           id: 1,
-          title: "Meza e Zjarrtë “Aurum Platter”",
+          title: "Meza e Zjarrtë",
           price: "15.00€",
           description:
             "Përmban: Mish viqi dhe pule, Kackavall i freskët, i prerë në copa, Djathë i bardhë tradicional, Chicken Fingers krokante, Ullinj të zinj dhe jeshilë, të marinuar me erëza.",
         },
         {
           id: 2,
-          title: "Meza e Zjarrtë “Aurum Platter” (E Vogël)",
+          title: "Meza e Zjarrtë (E Vogël)",
           price: "8.00€",
           description:
             "Përmban: Mish pule të marinuar, kaçkavall të freskët të prerë në copa, djathë të bardhë tradicional",
         },
         {
           id: 3,
-          title: "Meza e Akullt “Aurum Platter”",
+          title: "Meza e Akullt",
           price: "8.00€",
           description:
             "Pjatë e përzgjedhur me kaçkavall të stazhonuar, proshutë dhe suxhuk boshnjak artizanal, ullinj mesdhetarë dhe perime të freskëta të marinuara me vaj ulliri dhe aromatikë natyralë.",
