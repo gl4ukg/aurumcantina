@@ -97,7 +97,7 @@ export const categoryDishesData = {
       title: "Breakfast Bites",
       align: "left",
       phrase: "Shërbehen deri në orën 12:00",
-      image: "/menu/menu-1.webp",
+      image: "/menu/menu-1.jpg",
       altText: "Breakfast",
       icon: "/icons/burger.svg",
       link: "/",
