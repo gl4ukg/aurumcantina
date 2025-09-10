@@ -154,7 +154,7 @@ export const categoryDishesData = {
         {
           id: 1,
           title: "Tacos Trio",
-          price: "5.00€ (3) / 2.00€ (1)",
+          price: "5.00€",
           description: "3 tacos (pule/viç/vegjetarian)",
         },
         {
@@ -172,7 +172,7 @@ export const categoryDishesData = {
         },
         {
           id: 4,
-          title: "Sub Mexicano",
+          title: "Sub Sandwich",
           price: "3.80€",
           description:
             "Sanduiç me mish viçi, salsa jo shumë e djegës dhe qepë të kuqe",
@@ -245,7 +245,8 @@ export const categoryDishesData = {
           id: 5,
           title: "Pizza Aurum",
           price: "4.50€",
-          description: "Me mozzarella, proshute & kerpurdha",
+          description:
+            "Receta jonë e shtëpisë, e përgatitur me proshutë të freskët dhe kërpudha aromatike.",
         },
         {
           id: 6,
@@ -280,13 +281,6 @@ export const categoryDishesData = {
           price: "4.00€",
           description: "Sallatë me fileto pule, dhe rukola, buk shtëpie",
         },
-        {
-          id: 3,
-          title: "Sallatë Tuna (Tuna Breeze)",
-          price: "4.00€",
-          description:
-            "Sallatë me tuna, vezë dhe limonette dressing, buk shtëpie",
-        },
       ],
     },
     {
@@ -303,7 +297,7 @@ export const categoryDishesData = {
       dishesList: [
         {
           id: 1,
-          title: "Pasta Bolognese",
+          title: "Spaghetti Bolognese",
           price: "4.80€",
           description: "Recetë origjinale me mish viçi",
         },
