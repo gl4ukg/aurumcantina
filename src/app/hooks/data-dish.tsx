@@ -130,12 +130,6 @@ export const categoryDishesData = {
           description:
             "Llokuma të ngrohta me Mjaltë, Reçel shtëpie ose Nutella",
         },
-        {
-          id: 5,
-          title: "Toast Italiano",
-          price: "2.50€",
-          description: "Bukë e thekur me djathë kaçkavall & proshutë",
-        },
       ],
     },
     {
@@ -153,50 +147,65 @@ export const categoryDishesData = {
       dishesList: [
         {
           id: 1,
-          title: "Tacos Trio",
-          price: "5.00€",
-          description: "3 tacos (pule/viç/vegjetarian)",
+          title: "Tacos de Viç",
+          price: "5.80€",
+          description:
+            "3 tacos të mbushura me mish viçi, qepë të freskëta dhe salcë speciale.",
         },
         {
           id: 2,
+          title: "Tacos de Pulë",
+          price: "4.80€",
+          description:
+            "3 tacos krokante me mish pule, qepë dhe salcë të shijshme.",
+        },
+        {
+          id: 3,
+          title: "Tacos Veggie",
+          price: "3.80€",
+          description:
+            "3 tacos vegjetariane me perime të freskëta dhe salcë speciale.",
+        },
+        {
+          id: 4,
           title: "Quesadilla Picante",
           price: "4.00€",
           description: "Me djathë, mish pule ose viçi dhe salcë të nxehtë",
         },
         {
-          id: 3,
+          id: 5,
           title: "Burrito Grande",
           price: "4.80€",
           description:
             "I mbushur me oriz, miser, mish pule ose viçi, fasule dhe guacamole",
         },
         {
-          id: 4,
+          id: 6,
           title: "Sub Sandwich",
           price: "3.80€",
           description:
             "Sanduiç me mish viçi, salsa jo shumë e djegës dhe qepë të kuqe",
         },
         {
-          id: 5,
+          id: 7,
           title: "Nachos",
           price: "SE SHPEJTI..",
           description: "",
         },
         {
-          id: 6,
+          id: 8,
           title: "Crispy Tacos",
           price: "SE SHPEJTI..",
           description: "",
         },
         {
-          id: 7,
+          id: 9,
           title: "Mini Burritos",
           price: "SE SHPEJTI..",
           description: "",
         },
         {
-          id: 8,
+          id: 10,
           title: "Shrimp Tacos",
           price: "SE SHPEJTI..",
           description: "",
@@ -281,6 +290,13 @@ export const categoryDishesData = {
           price: "4.00€",
           description: "Sallatë me fileto pule, dhe rukola, buk shtëpie",
         },
+        {
+          id: 3,
+          title: "Sallatë Tuna (Tuna Breeze)",
+          price: "4.00€",
+          description:
+            "Sallatë me tuna, vezë dhe limonette dressing, buk shtëpie",
+        },
       ],
     },
     {
@@ -321,6 +337,13 @@ export const categoryDishesData = {
           price: "6.80€",
           description:
             "Spaghetti al dente me karkaleca, midhje dhe fruta të tjera deti, hudhër, verë të bardhë, vaj ulliri dhe majdanoz të freskët.",
+        },
+        {
+          id: 5,
+          title: "Pasta El Dorado",
+          price: "6.80€",
+          description:
+            "Penne me mish viçi me salcë domatesh dhe pana, parmezan, jalapeno, salcë të djegës dhe qepë të kuqe",
         },
       ],
     },
