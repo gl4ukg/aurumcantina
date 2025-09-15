@@ -408,34 +408,34 @@ export const categoryDishesData = {
     },
     {
       id: 8,
-      tag: "Meza",
-      title: "Meza – Aurum Platter",
+      tag: "Meze",
+      title: "Meze – Aurum Platter",
       align: "left",
       phrase: "",
       image: "/menu/menu-8.webp",
-      altText: "Meza",
+      altText: "Meze",
       icon: "/icons/platter.svg",
       link: "/",
-      anchor: "meza",
+      anchor: "meze",
       dishesList: [
         {
           id: 1,
-          title: "Meza e Zjarrtë",
+          title: "Meze e Zjarrtë",
           price: "15.00€",
           description:
             "Përmban: Mish viqi dhe pule, Kackavall i freskët, i prerë në copa, Djathë i bardhë tradicional, Chicken Fingers krokante, Ullinj të zinj dhe jeshilë, të marinuar me erëza.",
         },
         {
           id: 2,
-          title: "Meza e Zjarrtë (E Vogël)",
-          price: "8.00€",
+          title: "Meze e Zjarrtë (E Vogël)",
+          price: "10.00€",
           description:
             "Përmban: Mish pule të marinuar, kaçkavall të freskët të prerë në copa, djathë të bardhë tradicional",
         },
         {
           id: 3,
-          title: "Meza e Akullt",
-          price: "8.00€",
+          title: "Meze e Akullt",
+          price: "6.00€",
           description:
             "Pjatë e përzgjedhur me kaçkavall të stazhonuar, proshutë dhe suxhuk boshnjak artizanal, ullinj mesdhetarë dhe perime të freskëta të marinuara me vaj ulliri dhe aromatikë natyralë.",
         },
