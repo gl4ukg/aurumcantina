@@ -5,8 +5,8 @@ export const InfoGeneralData = {
   urlLogo: "/logo.svg",
   urlMap:
     "https://www.google.com/maps/place/42%C2%B022'22.4%22N+20%C2%B026'19.3%22E/@42.3728749,20.4380406,176m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d42.3728749!4d20.4386843!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
-  phone: "+383 44 914 140",
-  fax: "+383 44 914 140",
+  phone: "+383 49 100 423",
+  fax: "+383 49 100 423",
   emailInfo: "aurumcantina@gmail.com",
   emailReservations: "aurumcantina@gmail.com",
   address: "Rr. Migjeni",
