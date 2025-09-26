@@ -174,7 +174,7 @@ export const categoryDishesData = {
         },
         {
           id: 5,
-          title: "Quesadilla Res",
+          title: "El Quesadilla Res",
           price: "4.20€",
           description: "Me kaçkavall, mish viçi dhe salcë pikante",
         },
@@ -187,7 +187,7 @@ export const categoryDishesData = {
         },
         {
           id: 7,
-          title: "Burrito Viç",
+          title: "Burrito De Viç",
           price: "4.80€",
           description:
             "Mbushur me oriz, misër, fasule, guacamole dhe mish viçi",
