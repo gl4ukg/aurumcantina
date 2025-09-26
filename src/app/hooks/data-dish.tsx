@@ -175,7 +175,7 @@ export const categoryDishesData = {
         {
           id: 5,
           title: "Quesadilla Res",
-          price: "4.00€",
+          price: "4.20€",
           description: "Me kaçkavall, mish viçi dhe salcë pikante",
         },
         {
