@@ -168,26 +168,26 @@ export const categoryDishesData = {
         },
         {
           id: 4,
-          title: "Quesadilla Pollo (me pule)",
+          title: "Quesadilla Pollo",
           price: "3.80€",
           description: "Me kaçkavall, mish pule dhe salcë pikante",
         },
         {
           id: 5,
-          title: "Quesadilla Res (me viç)",
+          title: "Quesadilla Res",
           price: "4.00€",
           description: "Me kaçkavall, mish viçi dhe salcë pikante",
         },
         {
           id: 6,
-          title: "Burrito Pollo (me pule)",
+          title: "Burrito Pulë",
           price: "4.60€",
           description:
             "Mbushur me oriz, misër, fasule, guacamole dhe mish pule",
         },
         {
           id: 7,
-          title: "Burrito Res (me viç)",
+          title: "Burrito Viç",
           price: "4.80€",
           description:
             "Mbushur me oriz, misër, fasule, guacamole dhe mish viçi",
