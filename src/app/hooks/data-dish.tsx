@@ -169,7 +169,7 @@ export const categoryDishesData = {
         {
           id: 4,
           title: "Quesadilla Pollo",
-          price: "3.80€",
+          price: "3.70€",
           description: "Me kaçkavall, mish pule dhe salcë pikante",
         },
         {
@@ -181,7 +181,7 @@ export const categoryDishesData = {
         {
           id: 6,
           title: "Burrito Pulë",
-          price: "4.60€",
+          price: "4.50€",
           description:
             "Mbushur me oriz, misër, fasule, guacamole dhe mish pule",
         },
