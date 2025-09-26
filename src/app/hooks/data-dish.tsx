@@ -168,44 +168,58 @@ export const categoryDishesData = {
         },
         {
           id: 4,
-          title: "Quesadilla Picante",
-          price: "4.00€",
-          description: "Me djathë, mish pule ose viçi dhe salcë të nxehtë",
+          title: "Quesadilla Pollo (me pule)",
+          price: "3.80€",
+          description: "Me kaçkavall, mish pule dhe salcë pikante",
         },
         {
           id: 5,
-          title: "Burrito Grande",
-          price: "4.80€",
-          description:
-            "I mbushur me oriz, miser, mish pule ose viçi, fasule dhe guacamole",
+          title: "Quesadilla Res (me viç)",
+          price: "4.00€",
+          description: "Me kaçkavall, mish viçi dhe salcë pikante",
         },
         {
           id: 6,
+          title: "Burrito Pollo (me pule)",
+          price: "4.60€",
+          description:
+            "Mbushur me oriz, misër, fasule, guacamole dhe mish pule",
+        },
+        {
+          id: 7,
+          title: "Burrito Res (me viç)",
+          price: "4.80€",
+          description:
+            "Mbushur me oriz, misër, fasule, guacamole dhe mish viçi",
+        },
+
+        {
+          id: 8,
           title: "Sub Sandwich",
           price: "3.80€",
           description:
             "Sanduiç me mish viçi, salsa jo shumë e djegës dhe qepë të kuqe",
         },
         {
-          id: 7,
+          id: 9,
           title: "Nachos",
           price: "SE SHPEJTI..",
           description: "",
         },
         {
-          id: 8,
+          id: 10,
           title: "Crispy Tacos",
           price: "SE SHPEJTI..",
           description: "",
         },
         {
-          id: 9,
+          id: 11,
           title: "Mini Burritos",
           price: "SE SHPEJTI..",
           description: "",
         },
         {
-          id: 10,
+          id: 12,
           title: "Shrimp Tacos",
           price: "SE SHPEJTI..",
           description: "",
