@@ -436,6 +436,13 @@ export const categoryDishesData = {
         },
         {
           id: 4,
+          title: "Karkaleca në Tave",
+          price: "10.00€",
+          description:
+            "8 karkaleca të freskët në furrë me vaj ulliri, hudhër e domate, shije autentike mesdhetare.",
+        },
+        {
+          id: 5,
           title: "Karkaleca Tempura Shots",
           price: "10.00€",
           description:
