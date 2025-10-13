@@ -485,5 +485,52 @@ export const categoryDishesData = {
         },
       ],
     },
+    {
+      id: 9,
+      tag: "Cocktails",
+      title: "Cocktails – Signature Drinks",
+      align: "left",
+      phrase: "Crafted with passion, served with style",
+      image: "/menu/menu-99.jpg",
+      altText: "Cocktails",
+      icon: "/icons/cocktail.svg",
+      link: "/",
+      anchor: "cocktails",
+      dishesList: [
+        {
+          id: 1,
+          title: "Amaro Peach Sour",
+          price: "7.00€",
+          description:
+            "Amaro Fromidable 50ml, Giffard Peach Syrup 15ml, Giffard Lemon Juice 35ml",
+        },
+        {
+          id: 2,
+          title: "New York Sour",
+          price: "8.00€",
+          description:
+            "Bulleit Whiskey 50ml, Sugar Cane 15ml, Lemon Juice 35ml, JP Chenet 10ml",
+        },
+        {
+          id: 3,
+          title: "Black Russian",
+          price: "7.00€",
+          description: "Vodka 50ml, Giffard Coffee Liqueur 20ml",
+        },
+        {
+          id: 4,
+          title: "Margarita",
+          price: "7.50€",
+          description: "Tequila 40ml, Triple Sec 20ml, Lemon Juice 30ml",
+        },
+        {
+          id: 5,
+          title: "Vodka Sour Passion Fruit",
+          price: "7.50€",
+          description:
+            "Vodka 50ml, Passion Fruit Puree 25ml, Lemon Juice 30ml",
+        },
+      ],
+    },
   ],
 };
