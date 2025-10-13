@@ -488,7 +488,7 @@ export const categoryDishesData = {
     {
       id: 9,
       tag: "Cocktails",
-      title: "Cocktails – Signature Drinks",
+      title: "American Cocktails",
       align: "left",
       phrase: "Crafted with passion, served with style",
       image: "/menu/menu-99.jpg",
