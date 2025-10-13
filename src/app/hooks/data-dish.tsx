@@ -502,33 +502,33 @@ export const categoryDishesData = {
           title: "Amaro Peach Sour",
           price: "6.00€",
           description:
-            "Amaro Fromidable 50ml, Giffard Peach Syrup 15ml, Giffard Lemon Juice 35ml",
+            "Një përzierje e freskët me shije pjeshke të pjekur, agrume dhe amaro me nota bimore. E butë, e freskët dhe me pak hidhësi që i jep karakter. ",
         },
         {
           id: 2,
           title: "New York Sour",
           price: "6.00€",
           description:
-            "Bulleit Whiskey 50ml, Sugar Cane 15ml, Lemon Juice 35ml, JP Chenet 10ml",
+            "Bourbon, limon i freskët dhe një shtresë vere të kuqe. Klasik, elegant dhe me shije të balancuar.",
         },
         {
           id: 3,
           title: "Black Russian",
           price: "6.00€",
-          description: "Vodka 50ml, Giffard Coffee Liqueur 20ml",
+          description: "Vodka dhe liker kafeje, të drejtpërdrejta dhe pa kompromis. I errët, i thjeshtë dhe plot karakter.",
         },
         {
           id: 4,
           title: "Margarita",
           price: "5.00€",
-          description: "Tequila 40ml, Triple Sec 20ml, Lemon Juice 30ml",
+          description: "Tequila, lëng lime dhe triple sec – freski citrus dhe një goditje klasike me shije deti dhe festë.",
         },
         {
           id: 5,
           title: "Vodka Sour Passion Fruit",
           price: "5.00€",
           description:
-            "Vodka 50ml, Passion Fruit Puree 25ml, Lemon Juice 30ml",
+            "Vodka e pastër, fruta pasioni dhe limon i freskët. E thartë, tropikale dhe plot energji.",
         },
       ],
     },
