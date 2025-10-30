@@ -269,7 +269,7 @@ export const categoryDishesData = {
           title: "Mexican Pizza",
           price: "6.80€",
           description:
-            "Klasike me salcë domatesh të freskëta dhe kaçkavall të shkrirë, e pjekur për kore të artë dhe krokante.",
+            "E përgatitur me mish të bluar të shijshëm, kërpudha të freskëta dhe përzierje perimesh të fërguara, për një shije autentike meksikane dhe aromë pikante.",
         },
         {
           id: 6,
