@@ -214,13 +214,13 @@ export const categoryDishesData = {
         },
         {
           id: 11,
-          title: "Mini Burritos",
+          title: "Fish Tacos",
           price: "SE SHPEJTI..",
           description: "",
         },
         {
           id: 12,
-          title: "Shrimp Tacos",
+          title: "Taco me karkalec",
           price: "SE SHPEJTI..",
           description: "",
         },
@@ -266,13 +266,20 @@ export const categoryDishesData = {
         },
         {
           id: 5,
+          title: "Mexican Pizza",
+          price: "6.80€",
+          description:
+            "Klasike me salcë domatesh të freskëta dhe kaçkavall të shkrirë, e pjekur për kore të artë dhe krokante.",
+        },
+        {
+          id: 6,
           title: "Pizza Aurum",
           price: "4.50€",
           description:
             "Receta jonë e shtëpisë, e përgatitur me proshutë të freskët dhe kërpudha aromatike.",
         },
         {
-          id: 6,
+          id: 7,
           title: "Pizza Margarita",
           price: "3.50€",
           description:
@@ -336,7 +343,7 @@ export const categoryDishesData = {
           title: "Pasta me pule dhe pana",
           price: "4.80€",
           description:
-            "Me copeza te vogla te pules, pana, gjalpë dhe parmixhan",
+            "Me copeza te vogla te pules, pana, gjalpë, parmixhan dhe baby spinaq",
         },
         {
           id: 3,
@@ -467,14 +474,14 @@ export const categoryDishesData = {
           title: "Meze e Zjarrtë",
           price: "15.00€",
           description:
-            "Përmban: Mish viqi dhe pule, Kackavall i freskët, i prerë në copa, Djathë i bardhë tradicional, Chicken Fingers krokante, Ullinj të zinj dhe jeshilë, të marinuar me erëza.",
+            "Përmban: Mish viqi dhe krahë pule, Kackavall i freskët, i prerë në copa, Djathë i bardhë tradicional, Chicken Fingers krokante, Ullinj të zinj dhe jeshilë, të marinuar me erëza.",
         },
         {
           id: 2,
           title: "Meze e Zjarrtë (E Vogël)",
           price: "10.00€",
           description:
-            "Përmban: Mish pule të marinuar, kaçkavall të freskët të prerë në copa, djathë të bardhë tradicional",
+            "Përmban: Krahë pule të marinuar, kaçkavall të freskët të prerë në copa, djathë të bardhë tradicional",
         },
         {
           id: 3,
@@ -514,7 +521,7 @@ export const categoryDishesData = {
         {
           id: 3,
           title: "Black Russian",
-          price: "6.00€",
+          price: "5.00€",
           description: "Vodka dhe liker kafeje, të drejtpërdrejta dhe pa kompromis. I errët, i thjeshtë dhe plot karakter.",
         },
         {
