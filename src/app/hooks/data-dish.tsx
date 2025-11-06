@@ -168,50 +168,50 @@ export const categoryDishesData = {
         },
         {
           id: 4,
-          title: "Quesadilla Pollo",
-          price: "3.70€",
-          description: "Me kaçkavall, mish pule dhe salcë pikante",
+          title: "Tacos me Karkalec",
+          price: "7.80€",
+          description:
+            "Tacos me karkalecë të marinuar, të pjekur butë, me salcë pikante, lime dhe sallate te kuqë e te bardhë.",
         },
         {
           id: 5,
-          title: "El Quesadilla Res",
-          price: "4.20€",
-          description: "Me kaçkavall, mish viçi dhe salcë pikante",
-        },
-        {
-          id: 6,
-          title: "Burrito Pulë",
-          price: "4.50€",
-          description:
-            "Mbushur me oriz, misër, fasule, guacamole dhe mish pule",
-        },
-        {
-          id: 7,
-          title: "Burrito De Viç",
-          price: "4.80€",
-          description:
-            "Mbushur me oriz, misër, fasule, guacamole dhe mish viçi",
-        },
-        {
-          id: 8,
-          title: "Sub Sandwich",
-          price: "3.80€",
-          description:
-            "Sanduiç me mish viçi, salsa jo shumë e djegës dhe qepë të kuqe",
-        },
-        {
-          id: 9,
           title: "Fish Tacos",
           price: "6.80€",
           description:
             "Tacos të mbushura me fileto peshku të pjekur lehtë, lakër të freskët dhe salcë lime-koriander për shije të rafinuar deti.",
         },
         {
-          id: 10,
-          title: "Tacos me Karkalec",
-          price: "7.80€",
+          id: 6,
+          title: "Quesadilla Pollo",
+          price: "3.70€",
+          description: "Me kaçkavall, mish pule dhe salcë pikante",
+        },
+        {
+          id: 7,
+          title: "El Quesadilla Res",
+          price: "4.20€",
+          description: "Me kaçkavall, mish viçi dhe salcë pikante",
+        },
+        {
+          id: 8,
+          title: "Burrito Pulë",
+          price: "4.50€",
           description:
-            "Tacos me karkalecë të marinuar, të pjekur butë, me salcë pikante, lime dhe sallate te kuqë e te bardhë.",
+            "Mbushur me oriz, misër, fasule, guacamole dhe mish pule",
+        },
+        {
+          id: 9,
+          title: "Burrito De Viç",
+          price: "4.80€",
+          description:
+            "Mbushur me oriz, misër, fasule, guacamole dhe mish viçi",
+        },
+        {
+          id: 10,
+          title: "Sub Sandwich",
+          price: "3.80€",
+          description:
+            "Sanduiç me mish viçi, salsa jo shumë e djegës dhe qepë të kuqe",
         },
         {
           id: 11,
