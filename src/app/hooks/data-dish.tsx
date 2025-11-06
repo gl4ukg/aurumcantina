@@ -192,7 +192,6 @@ export const categoryDishesData = {
           description:
             "Mbushur me oriz, misër, fasule, guacamole dhe mish viçi",
         },
-
         {
           id: 8,
           title: "Sub Sandwich",
@@ -202,25 +201,27 @@ export const categoryDishesData = {
         },
         {
           id: 9,
+          title: "Fish Tacos",
+          price: "6.80€",
+          description:
+            "Tacos të mbushura me fileto peshku të pjekur lehtë, lakër të freskët dhe salcë lime-koriander për shije të rafinuar deti.",
+        },
+        {
+          id: 10,
+          title: "Tacos me Karkalec",
+          price: "7.80€",
+          description:
+            "Tacos me karkalecë të marinuar, të pjekur butë, me salcë pikante, lime dhe sallate te kuqë e te bardhë.",
+        },
+        {
+          id: 11,
           title: "Nachos",
           price: "SE SHPEJTI..",
           description: "",
         },
         {
-          id: 10,
-          title: "Crispy Tacos",
-          price: "SE SHPEJTI..",
-          description: "",
-        },
-        {
-          id: 11,
-          title: "Fish Tacos",
-          price: "SE SHPEJTI..",
-          description: "",
-        },
-        {
           id: 12,
-          title: "Taco me karkalec",
+          title: "Crispy Tacos",
           price: "SE SHPEJTI..",
           description: "",
         },
