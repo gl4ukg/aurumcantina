@@ -146,88 +146,88 @@ export const categoryDishesData = {
       anchor: "mexico",
       dishesList: [
         {
-          id: 0,
+          id: 1,
           title: "Smash Taco",
           price: "4.50€",
           description:
             "Dy shtresa mishi pure beef smash, sallatë jeshile, qepë, misër dhe fasule.",
         },
         {
-          id: 1,
+          id: 2,
           title: "Tacos de Viç",
           price: "5.80€",
           description:
             "3 tacos të mbushura me mish viçi, qepë të freskëta dhe salcë speciale.",
         },
         {
-          id: 2,
+          id: 3,
           title: "Tacos de Pulë",
           price: "4.80€",
           description:
             "3 tacos krokante me mish pule, qepë dhe salcë të shijshme.",
         },
         {
-          id: 3,
+          id: 4,
           title: "Tacos Veggie",
           price: "3.80€",
           description:
             "3 tacos vegjetariane me perime të freskëta dhe salcë speciale.",
         },
         {
-          id: 4,
+          id: 5,
           title: "Tacos me Karkalec",
           price: "7.80€",
           description:
             "Tacos me karkalecë të marinuar, të pjekur butë, me salcë pikante, lime dhe sallate te kuqë e te bardhë.",
         },
         {
-          id: 5,
+          id: 6,
           title: "Fish Tacos",
           price: "6.80€",
           description:
             "Tacos të mbushura me fileto peshku të pjekur lehtë, lakër të freskët dhe salcë lime-koriander për shije të rafinuar deti.",
         },
         {
-          id: 6,
+          id: 7,
           title: "Quesadilla Pollo",
           price: "3.70€",
           description: "Me kaçkavall, mish pule dhe salcë pikante",
         },
         {
-          id: 7,
+          id: 8,
           title: "El Quesadilla Res",
           price: "4.20€",
           description: "Me kaçkavall, mish viçi dhe salcë pikante",
         },
         {
-          id: 8,
+          id: 9,
           title: "Burrito Pulë",
           price: "4.50€",
           description:
             "Mbushur me oriz, misër, fasule, guacamole dhe mish pule",
         },
         {
-          id: 9,
+          id: 10,
           title: "Burrito De Viç",
           price: "4.80€",
           description:
             "Mbushur me oriz, misër, fasule, guacamole dhe mish viçi",
         },
         {
-          id: 10,
+          id: 11,
           title: "Sub Sandwich",
           price: "3.80€",
           description:
             "Sanduiç me mish viçi, salsa jo shumë e djegës dhe qepë të kuqe",
         },
         {
-          id: 11,
+          id: 12,
           title: "Nachos",
           price: "SE SHPEJTI..",
           description: "",
         },
         {
-          id: 12,
+          id: 13,
           title: "Crispy Tacos",
           price: "SE SHPEJTI..",
           description: "",
