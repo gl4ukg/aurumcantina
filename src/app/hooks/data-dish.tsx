@@ -146,6 +146,13 @@ export const categoryDishesData = {
       anchor: "mexico",
       dishesList: [
         {
+          id: 0,
+          title: "Smash Taco",
+          price: "4.50€",
+          description:
+            "Dy shtresa mishi pure beef smash, sallatë jeshile, qepë, misër dhe fasule.",
+        },
+        {
           id: 1,
           title: "Tacos de Viç",
           price: "5.80€",
