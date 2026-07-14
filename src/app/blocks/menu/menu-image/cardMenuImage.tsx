@@ -11,9 +11,12 @@ const CardMenuImage = ({
 	title,
 	phrase,
 	dishesList,
+	anchor,
 }: MenuCategory) => {
+	const isCompact = anchor === "desserts";
+
 	return (
-		<div className="menu__category">
+		<div className={`menu__category${isCompact ? " menu__category--compact" : ""}`}>
 			{/* Category image */}
 			<div className="menu__category-image">
 				<Image

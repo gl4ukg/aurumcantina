@@ -18,8 +18,8 @@ export const HeroInnerMenuData = {
 			link: "/menu",
 		}
 	],
-	image: "/restaurant.jpg",
-	altText: "Menu",
+	image: "/IMG_7970.jpg",
+	altText: "Aurum restaurant interior",
 };
 export const HeroInnerMenuFullData = {
 	title: "Menu - Full Width",

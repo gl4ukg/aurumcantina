@@ -190,13 +190,13 @@ export const categoryDishesData = {
         {
           id: 7,
           title: "Quesadilla Pollo",
-          price: "3.70€",
+          price: "3.90€",
           description: "Me kaçkavall, mish pule dhe salcë pikante",
         },
         {
           id: 8,
           title: "El Quesadilla Res",
-          price: "4.20€",
+          price: "4.40€",
           description: "Me kaçkavall, mish viçi dhe salcë pikante",
         },
         {
@@ -249,47 +249,40 @@ export const categoryDishesData = {
         {
           id: 1,
           title: "Smash Burger",
-          price: "3.80€",
+          price: "4.00€",
           description:
             "Dy shtresa mishi, cheddar cheese, burger sauce & pepito sauce, qepë & tranguj",
         },
         {
           id: 2,
-          title: "Cheese Burger",
-          price: "2.80€",
-          description:
-            "Nje shtrese mishi, cheddar cheese, burger sauce, sallate jeshile, domate, qepe, tranguj",
-        },
-        {
-          id: 3,
           title: "Chicken Burger",
           price: "3.00€",
           description: "Fileto pule krokante, salcë burgeri, qepë & tranguj",
         },
         {
-          id: 4,
+          id: 3,
           title: "Sanduiç me Pule",
           price: "3.00€",
           description: "Chicken sandwich me salcë, kaçkavall, tranguj",
         },
         {
-          id: 5,
+          id: 4,
           title: "Mexican Pizza",
-          price: "6.80€",
+          price: "6.20€",
           description:
             "E përgatitur me mish të bluar të shijshëm, kërpudha të freskëta dhe përzierje perimesh të fërguara, për një shije autentike meksikane dhe aromë pikante.",
         },
         {
-          id: 6,
+          id: 5,
           title: "Pizza Aurum",
           price: "4.50€",
           description:
             "Receta jonë e shtëpisë, e përgatitur me proshutë të freskët dhe kërpudha aromatike.",
         },
         {
-          id: 7,
+          id: 6,
           title: "Pizza Margarita",
-          price: "3.50€",
+          price: "3.80€",
           description:
             "Klasike me salcë domatesh të freskëta dhe kaçkavall të shkrirë, e pjekur për kore të artë dhe krokante.",
         },
@@ -363,7 +356,7 @@ export const categoryDishesData = {
         {
           id: 4,
           title: "Spaghetti me Fruta Deti",
-          price: "6.80€",
+          price: "6.50€",
           description:
             "Spaghetti al dente me karkaleca, midhje dhe fruta të tjera deti, hudhër, verë të bardhë, vaj ulliri dhe majdanoz të freskët.",
         },
@@ -402,13 +395,20 @@ export const categoryDishesData = {
         },
         {
           id: 3,
+          title: "Risotto me Viç",
+          price: "5.50€",
+          description:
+            "Risotto kremoz me mish viçi, parmixhano dhe erëza të freskëta, i përgatitur për një shije të pasur.",
+        },
+        {
+          id: 4,
           title: "Risotto me Karkaleca",
-          price: "10.00€",
+          price: "9.50€",
           description:
             "Oriz arborio i kremozuar me verë të bardhë, karkaleca të freskët, hudhër, lëng peshku, vaj ulliri dhe majdanoz të freskët.",
         },
         {
-          id: 4,
+          id: 5,
           title: "Risotto me Fruta Deti (Risotto ai Frutti di Mare)",
           price: "8.00€",
           description:
@@ -456,13 +456,6 @@ export const categoryDishesData = {
           description:
             "8 karkaleca të freskët në furrë me vaj ulliri, hudhër e domate, shije autentike mesdhetare.",
         },
-        {
-          id: 5,
-          title: "Karkaleca Tempura Shots",
-          price: "10.00€",
-          description:
-            "Karkaleca krokantë në tempurë të lehtë japoneze, të shërbyer në gota ‘shot’ individuale, të shoqëruar me një përzgjedhje finesash salsash shtëpie",
-        },
       ],
     },
     {
@@ -502,6 +495,26 @@ export const categoryDishesData = {
     },
     {
       id: 9,
+      tag: "Desserts",
+      title: "Desserts",
+      align: "left",
+      phrase: "",
+      image: "/menu/menu-desserts.jpg",
+      altText: "Desserts",
+      icon: "/icons/desserts.svg",
+      link: "/",
+      anchor: "desserts",
+      dishesList: [
+        {
+          id: 1,
+          title: "Choco Taco",
+          price: "2.00€",
+          description: "",
+        },
+      ],
+    },
+    {
+      id: 10,
       tag: "Cocktails",
       title: "American Cocktails",
       align: "left",
