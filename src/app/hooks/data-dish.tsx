@@ -508,7 +508,7 @@ export const categoryDishesData = {
         {
           id: 1,
           title: "Choco Taco",
-          price: "2.00€",
+          price: "2.50€",
           description: "",
         },
       ],

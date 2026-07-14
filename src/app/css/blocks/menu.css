@@ -137,7 +137,7 @@
 	}
 	&--compact {
 		.menu__category-image {
-			@apply md:min-h-[640px] lg:min-h-[720px];
+			@apply min-h-[280px] md:min-h-[640px] lg:min-h-[720px];
 			img {
 				@apply absolute inset-0 w-full h-full object-cover;
 			}
