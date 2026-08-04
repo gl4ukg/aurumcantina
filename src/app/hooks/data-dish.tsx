@@ -527,36 +527,37 @@ export const categoryDishesData = {
       dishesList: [
         {
           id: 1,
-          title: "Amaro Peach Sour",
-          price: "6.00€",
+          title: "Margarita",
+          price: "5.00€",
           description:
-            "Një përzierje e freskët me shije pjeshke të pjekur, agrume dhe amaro me nota bimore. E butë, e freskët dhe me pak hidhësi që i jep karakter. ",
+            "Tequila, lëng lime dhe triple sec – freski citrus dhe një goditje klasike me shije deti dhe festë.",
         },
         {
           id: 2,
-          title: "New York Sour",
-          price: "6.00€",
-          description:
-            "Bourbon, limon i freskët dhe një shtresë vere të kuqe. Klasik, elegant dhe me shije të balancuar.",
+          title: "Vodka Sour Passion Fruit/Kiwi",
+          price: "5.00€",
+          description: "A refreshing blend of tropical fruit and smooth vodka.",
         },
         {
           id: 3,
-          title: "Black Russian",
+          title: "Tequila Sour",
           price: "5.00€",
-          description: "Vodka dhe liker kafeje, të drejtpërdrejta dhe pa kompromis. I errët, i thjeshtë dhe plot karakter.",
+          description:
+            "A balanced mix of tequila, citrus and a touch of sweetness.",
         },
         {
           id: 4,
-          title: "Margarita",
-          price: "5.00€",
-          description: "Tequila, lëng lime dhe triple sec – freski citrus dhe një goditje klasike me shije deti dhe festë.",
+          title: "Wild Berry Gin",
+          price: "6.00€",
+          description:
+            "A fruity gin cocktail bursting with wild berry flavours.",
         },
         {
           id: 5,
-          title: "Vodka Sour Passion Fruit",
+          title: "Mentha Aperitivo",
           price: "5.00€",
           description:
-            "Vodka e pastër, fruta pasioni dhe limon i freskët. E thartë, tropikale dhe plot energji.",
+            "A refreshing aperitivo with a cool, minty character.",
         },
       ],
     },
